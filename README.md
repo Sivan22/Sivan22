@@ -6,10 +6,10 @@
 
 - 💻 I’m  very passioned about coding in particular and about technology in general.
 
-- I'm trying to combine my loves by using technology to improve tora study.
+- 🔗 I'm trying to combine my loves by using technology to improve tora study.
 
 ### 🤔 What are my works
 
-i am working now on Otzaria - a modern app that brings the jewish library to any device.
+Now I am working  on Otzaria - a modern app that brings the jewish library to any device.
 
-i am searching different apllication of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew and more.
+I am also searching different apllication of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew and more.
