@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Sivan22/Sivan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 Who am I
 
-Here are some ideas to get you started:
+- 📖 I'm Sivan Ratson, a <i>Tora</i> student (<i>Avrech</i>) in israel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m  very passioned about coding in particular and about technology in general.
+
+- I'm trying to combine my loves by using technology to improve tora study.
+
+### 🤔 What are my works
+
+i am working now on Otzaria - a modern app that brings the jewish library to any device.
+
+i am searching different apllication of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew and more.
