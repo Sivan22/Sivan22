@@ -17,7 +17,7 @@ the app already has hundreads of daily users and the number grows every day.
 
 ### My skills
 
-- Exceptional self-taught ability. Without a formal education, but with a strong passion for learning.
+- Exceptional self-taught ability. Without a formal education, but with a strong passion for learning.
 
 - In the past, I have written code in many languages (C,C++, JAVA, C#, JS), but my current focus is on Python (for data analytics and more), and Dart (for GUI apps).
 
