@@ -17,12 +17,11 @@ the app already has hundreads of daily users and the number grows every day.
 
 ### My skills
 
-- very high self-taught ability. with no formal education, but with a big love to studies.
+- Exceptional self-taught ability. Without a formal education, but with a strong passion for learning.
 
-- i wrote code in many languages (C,C++,JAVA,C#,JS) but currently focused mainly on Python (for data analitics and much more), and Dart (for GUI apps).
+- In the past, I have written code in many languages (C,C++, JAVA, C#, JS), but my current focus is on Python (for data analytics and more), and Dart (for GUI apps).
 
-- a good knowledge of the Flutter framework, including advanced state-management libraries like riverPod/bloc, and databases as isar and object-box.
+- Flutter expertise, including advanced state-management libraries, such as riverPod or bloc, and databases such as Isar and Object-Box.
 
-- a good practice with ML and Data science libraries in python, including pandas, sklearn, transformers, pytorch, and with some experience of finetuning ML models.
-
+- Good knowledge of Python ML/Data Science libraries, including pandas and sklearn, transformers, PyTorch, along with some experience fine tuning models.
 
