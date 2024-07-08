@@ -8,7 +8,7 @@
 
 - 🔗 I'm trying to combine my loves by using technology to improve tora study.
 
-### 👨‍💻 My works
+### 👨‍💻 My projects
 
 - 📚 Now I am working on Otzaria - a modern app that brings the jewish library to every device.
 the app already has hundreads of daily users and the number grows every day.
