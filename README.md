@@ -8,7 +8,7 @@
 
 - 🔗 I'm trying to combine my loves by using technology to improve tora study.
 
-###  My works
+### 👨‍💻 My works
 
 - 📚 Now I am working on Otzaria - a modern app that brings the jewish library to every device.
 the app already has hundreads of daily users and the number grows every day.
@@ -16,7 +16,7 @@ the app already has hundreads of daily users and the number grows every day.
 - 🔎 I am also searching different apllications of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew, <i>Tora</i> RAG, and more. 
 see my activity on hugging-face: [Link](https://huggingface.co/sivan22)
 
-### My skills
+### ⚙️ My skills
 
 - Exceptional self-taught ability. Without a formal education, but with a strong passion for learning.
 
