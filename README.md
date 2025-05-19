@@ -10,7 +10,7 @@
 
 ### 👨‍💻 My projects
 
-- 📚 Now I am working on Otzaria - a modern app that brings the jewish library to every device.
+- 📚 Now I am working on [Otzaria](https://www.otzaria.org/) - a modern app that brings the jewish library to every device.
 the app already has thousens of daily users and the number grows every day.
 
 - 🔎 I am also searching different apllications of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew, <i>Tora</i> RAG, and more. 
