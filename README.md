@@ -19,6 +19,7 @@
   - **Real-World Impact:** This system is actively used by Torah book editors for **advanced text editing**, content refinement, and **automated index generation**.
 
 - 🔎 **AI R&D**
+  
   I am developing cutting-edge applications of ML and LLMs specifically for the Torah world:
   - Semantic search using vector databases.
   - OCR for ancient Hebrew scripts.
