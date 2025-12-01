@@ -1,28 +1,35 @@
 ## Hi there 👋
 
 ### 🤔 Who am I
+- 📖 I'm Sivan Ratson, a Torah scholar (*Avrech*) based in Israel.
+- 💻 I am a passionate technologist sitting at the intersection of ancient wisdom and cutting-edge code.
+- 🔗 My mission is to revolutionize Torah study by bridging the gap between Jewish texts and modern software.
 
-- 📖 I'm Sivan Ratson, a <i>Tora</i> student (<i>Avrech</i>) in israel.
+### 🚀 My Projects & Current Focus
 
-- 💻 I’m very passioned about coding in particular and about technology in general.
+- 📚 **[Otzaria](https://www.otzaria.org/)**
+  
+  I am the creator and lead developer of Otzaria, a modern digital library bringing Jewish texts to every device. The app serves **thousands of daily active users** and continues to grow organically.
 
-- 🔗 I'm trying to combine my loves by using technology to improve tora study.
+- 🤖 **End-to-End LLM Ecosystem**
+  
+  I am currently architecting and deploying a comprehensive production-grade AI system.
+  - **Full Stack Architecture:** Building the entire pipeline from **Model Context Protocols (MCP)** on the backend to intuitive **React** components on the frontend.
+  - **Deployment:** Managing the full deployment lifecycle for complex, multi-component systems.
+  - **Real-World Impact:** This system is actively used by Torah book editors for **advanced text editing**, content refinement, and **automated index generation**.
 
-### 👨‍💻 My projects
+- 🔎 **AI R&D**
+  I am developing cutting-edge applications of ML and LLMs specifically for the Torah world:
+  - Semantic search using vector databases.
+  - OCR for ancient Hebrew scripts.
+  - **Agentic RAG** workflows.
+  - Check out my models and activity on **[Hugging Face](https://huggingface.co/sivan22)**.
 
-- 📚 Now I am working on [Otzaria](https://www.otzaria.org/) - a modern app that brings the jewish library to every device.
-the app already has thousens of daily users and the number grows every day.
+### ⚙️ My Skills
 
-- 🔎 I am also searching different apllications of ML in the tora study world: Semantic search using LLMs ans vector databases, OCR for ancient hebrew, <i>Tora</i> RAG, and more. 
-see my activity on hugging-face: [Link](https://huggingface.co/sivan22)
-
-### ⚙️ My skills
-
-- Exceptional self-taught ability. Without a formal graduation, but with a strong passion for learning.
-
-- In the past, I have written code in many languages (C,C++, JAVA, C#, JS), but my current focus is on Python (for data analytics and more), and Dart (for GUI apps).
-
-- Flutter expertise, including advanced state-management libraries, such as riverPod or bloc, and databases such as Isar and Object-Box.
-
-- Good knowledge of Python ML/Data Science libraries, including pandas and sklearn, transformers, PyTorch, along with some experience fine tuning models.
-
+- 🎓 **Exceptional Autodidact:** I possess a disciplined self-taught ability, mastering complex technologies without formal graduation but with relentless curiosity.
+- 👨‍💻 **Languages:** While I have a background in C, C++, Java, and C#, my current focus is on:
+  - **Python:** For Data Science, AI, and backend logic.
+  - **Dart:** For cross-platform GUI applications.
+  - **JavaScript/React:** For modern web interfaces.
+- 🧠 **AI & ML:** Deep expertise in Python libraries (Pandas, Sklearn, PyTorch), Transformers, fine-tuning models, and orchestrating LLMs as autonomous agents.
