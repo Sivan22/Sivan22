@@ -16,7 +16,7 @@
   I am currently architecting and deploying a comprehensive production-grade AI system.
   - **Full Stack Architecture:** Building the entire pipeline from **Model Context Protocols (MCP)** on the backend to intuitive **React** components on the frontend.
   - **Deployment:** Managing the full deployment lifecycle for complex, multi-component systems.
-  - **Real-World Impact:** This system is actively used by Torah book editors for **advanced text editing**, content refinement, and **automated index generation**.
+  - **Real-World Impact:** This system is actively used by Torah book editors for smart and deep researching, **advanced text editing**, content refinement, and **automated index generation**.
 
 - 🔎 **AI R&D**
   
