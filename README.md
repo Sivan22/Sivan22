@@ -2,9 +2,9 @@
 
 ### 🤔 Who am I
 - 📖 I'm Sivan Ratson, a Torah scholar (*Avrech*) based in Israel.
-- 💻 I am a passionate technologist sitting at the intersection of ancient wisdom and cutting-edge code.
-- 🔗 My mission is to revolutionize Torah study by bridging the gap between Jewish texts and modern software.
-
+- 💻 A passionate technologist sitting at the intersection of eternal wisdom and cutting-edge code.
+- 🔗 My mission is to elevate Torah study by bridging the worlds of timeless Jewish texts and modern innovation.
+- 
 ### 🚀 My Projects & Current Focus
 
 - 📚 **[Otzaria](https://www.otzaria.org/)**
